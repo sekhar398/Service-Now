@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit">e36400381b130010a8d7dc6cdc4bcba9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Task</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 08:37:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f36400381b130010a8d7dc6cdc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_446245_needit">1e93ccf41b130010a8d7dc6cdc4bcb56</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">1e93ccf41b130010a8d7dc6cdc4bcb56</sys_scope>
+        <sys_update_name>sys_app_module_f36400381b130010a8d7dc6cdc4bcbad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 08:37:20</sys_updated_on>
+        <timeline_page/>
+        <title>Task</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">1e93ccf41b130010a8d7dc6cdc4bcb56</application>
+        <file_path/>
+        <instance_id>4e2f0b27dbbfef043050ac44d4961968</instance_id>
+        <instance_name>dev73842</instance_name>
+        <name>sys_app_module_f36400381b130010a8d7dc6cdc4bcbad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needit">e36400381b130010a8d7dc6cdc4bcba9</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Task</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-28 08:37:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f36400381b130010a8d7dc6cdc4bcbad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task</sys_name><sys_overrides/><sys_package display_value="Needit" source="x_446245_needit">1e93ccf41b130010a8d7dc6cdc4bcb56</sys_package><sys_policy/><sys_scope display_value="Needit">1e93ccf41b130010a8d7dc6cdc4bcb56</sys_scope><sys_update_name>sys_app_module_f36400381b130010a8d7dc6cdc4bcbad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-28 08:37:20</sys_updated_on><timeline_page/><title>Task</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>960824937</payload_hash>
+        <record_name>Task</record_name>
+        <reverted_from/>
+        <source>1293ccf41b130010a8d7dc6cdc4bcb59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 08:37:20</sys_created_on>
+        <sys_id>7f6400381b130010a8d7dc6cdc4bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1708af162c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 08:37:20</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b7640038d013001046adce2f03a41faf</update_guid>
+        <update_guid_history>b7640038d013001046adce2f03a41faf:960824937</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Task">9ab2ac741b930010a8d7dc6cdc4bcb0b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 10:49:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>646b1da3d09d4dc09e661516054d3d41</sys_id>
+        <sys_metadata>f36400381b130010a8d7dc6cdc4bcbad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="Needit" source="x_446245_needit">1e93ccf41b130010a8d7dc6cdc4bcb56</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Needit">1e93ccf41b130010a8d7dc6cdc4bcb56</sys_scope>
+        <sys_scope_delete display_value="">024dc64591c14ce8835cb911482d8710</sys_scope_delete>
+        <sys_update_name>sys_app_module_f36400381b130010a8d7dc6cdc4bcbad</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f36400381b130010a8d7dc6cdc4bcbad">7f6400381b130010a8d7dc6cdc4bcbaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 10:49:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
